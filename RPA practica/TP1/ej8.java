@@ -1,0 +1,18 @@
+public static void main (String[] args) {
+    System.out.println("  ________  ");
+    System.out.println(" |________| ");
+    System.out.println(" |        | ");
+    System.out.println(" | []  [] | ");
+    System.out.println(" | []  [] | ");
+    System.out.println(" |________| ");
+    System.out.println(" |        | ");
+    System.out.println(" | []  [] | ");
+    System.out.println(" | []  [] | ");
+    System.out.println(" |________| ");
+    System.out.println(" |        | ");
+    System.out.println(" |        | ");
+    System.out.println(" |    _   | ");
+    System.out.println(" |   | |  | ");
+    System.out.println("_|___|_|__|_");
+
+}
