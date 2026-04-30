@@ -1,6 +1,6 @@
 
 public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
+    Scanner sc= new Scanner(System.in);
 
     System.out.println("Ingrese nombre del producto!" + "\n");
     String nombreProducto = sc.nextLine();
@@ -14,9 +14,9 @@ public static void main(String[] args) {
     double precioFinal = precioUnitario * cantidad;
 
     System.out.println("Usted lleva: " + nombreProducto + "\n"
-        + "a un costo de :" + precioUnitario + "\n"
-        + "y lleva: " + cantidad + "unidades del producto" + "\n"
-        + "para terminar abonando: " + precioFinal
+        + " a un costo de :" + precioUnitario + "\n"
+        + " y lleva: " + cantidad + "unidades del producto" + "\n"
+        + " para terminar abonando: " + precioFinal
     );
 
 }
