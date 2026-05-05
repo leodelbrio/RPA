@@ -9,5 +9,9 @@ public static void main (String[] args){
     int Y = sc.nextInt();
     System.out.println("Usted ingreso: " + Y + "\n");
 
-    
+    X = X + Y;
+    Y = X - Y;
+    X = X - Y;
+
+    System.out.println("Ahora X es: " + X + "\n" + "e Y es: " + Y);
 }
