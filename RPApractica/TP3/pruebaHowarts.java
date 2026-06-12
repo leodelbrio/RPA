@@ -21,6 +21,7 @@ public class main{
         System.out.println("Su ataque fue de: " + calcularDaño(poder) + " puntos magicos!");
         }
         
+        
     }
 
 }
